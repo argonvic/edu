@@ -1,0 +1,41 @@
+
+// Start of question: MultipleChoiceQ
+Usted tiene un examen  {
+=Uno
+~Dos
+~Tres
+~Cuatro
+}
+
+// Start of question: MultipleChoiceQ
+&iquest;Cu&aacute;ntas se&ntilde;ales distintas pueden hacerse con 9 banderas, izando 3 cada vez, sin importar el orden?  {
+~uno
+~dos
+~tres
+~cuatro
+=cinco
+}
+
+// Start of question: MultipleChoiceQ
+&iquest;Cu&aacute;l es el 6° t&eacute;rmino de una progresi&oacute;n aritm&eacute;tica de 11 t&eacute;rminos, si el 1er t&eacute;rmino es -2 y el &uacute;ltimo -52?  {
+=Uno
+~Dos
+~Tres
+~Cuatro
+}
+
+// Start of question: MultipleChoiceQ
+Encuentre el par de valores de x y y que satisfaga el siguiente grupo de ecuaciones. 2x + y \= -1, x-2y \= -13, 3x-2y \= -19  {
+=Uno
+~Dos
+~Tres
+~Cuatro
+}
+
+// Start of question: MultipleChoiceQ
+La poblaci&oacute;n de Rioverdev  {
+~Uno
+~Dos
+~Tres
+=Cuatro
+}

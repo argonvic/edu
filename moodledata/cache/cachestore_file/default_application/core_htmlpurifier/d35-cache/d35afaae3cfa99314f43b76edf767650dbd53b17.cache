@@ -1,0 +1,11 @@
+s:453:"<p>Se puede añadir un mensaje personalizado de bienvenida en texto simple o en auto-formato de Moodle, incluyendo marcas HTML y marcas multi-idioma.</p>
+
+<p>En el mensaje pueden incluirse los siguientes remplazables:</p>
+
+<ul>
+<li>Nombre del curso {$a-&gt;coursename}</li>
+<li>Enlace hacia la página del perfil del usuario {$a-&gt;profileurl}</li>
+<li>Email del usuario {$a-&gt;email}</li>
+<li>Nombre completo del usuario {$a-&gt;fullname}</li>
+</ul>
+";
